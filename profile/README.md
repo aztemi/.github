@@ -11,7 +11,9 @@
 
 </div>
 
-## State-of-the-art Software Consulting
-Bridge the gap between your ideas and their implementation.
+At AZTemi, we
 
-AZTemi provides value-added software solutions in web2 and web3 with focus on delivering great quality work.
+- offer state-of-the-art software consulting solutions
+- help you bridge the gap between your ideas and their implementation
+- provide value-added software solutions in both Web2 and Web3
+- work closely with your team with focus on delivering great quality work
