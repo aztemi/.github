@@ -1,5 +1,8 @@
 <div align="center">
-    <img src="https://www.aztemi.com/img/logo.png" height="70" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.aztemi.com/logo/logo2_dark.svg">
+      <img alt="AZTemi Logo" height="70" src="https://www.aztemi.com/logo/logo2_light.svg">
+    </picture>
 </div>
 
 <br />
